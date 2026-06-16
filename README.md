@@ -1,4 +1,4 @@
-# Midas Core — JP Morgan Chase Forage Project
+# Midas Core — JP Morgan Chase Project
 
 A Spring Boot microservice built as part of the **JP Morgan Chase Advanced Software Engineering** . The service simulates a core banking transaction processing system that listens to a Kafka stream, validates transactions, applies incentives, and persists records to a database.
 
